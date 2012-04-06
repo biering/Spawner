@@ -1,0 +1,12 @@
+name: Spawner
+version: 1.2.5
+main: me.Chryb.Spawner.Spawner
+author: Chryb
+website: http://rested.de
+permissions:
+   Spawner.*:
+      description: Gives access to all Spawner commands and actions.
+      default: op
+   Spawner.spawnsign:
+      description: Gives access to all Spawner commands and actions.
+      default: op
